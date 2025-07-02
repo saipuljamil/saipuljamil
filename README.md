@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipuljamil&label=Profile%20views&color=0e75b6&style=flat" alt="saipuljamil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saipuljamil" alt="saipuljamil" /></a> </p>
-
 - 🔭 I’m currently working on [Website Laundry Online – A web-based platform for ordering laundry pickup & delivery.](private)
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS, Git Workflow**
